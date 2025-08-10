@@ -4,15 +4,21 @@
 ![onerack](pics/onerack_1.jpg)
 ![onerack 2](pics/onerack_2.jpg)
 ![three](pics/three_stack.png)
-![render](pics/resistor_storage_render.png)
 
 This is my system for storing small electronic components. I'm really happy with it, so wanted to share in case others might like one. You'll need a couple of non-3d printed parts, namely:
+
+
+## Parts Needed
 
 - small wooden display boxes from Daiso (chain of Japanese dollar stores). They're about $6 each
 - a number of 15ml centrifuge tubes. I've had good results buying 100 for about $10 on Aliexpress
 
 ![wooden box](pics/start.jpg)
 ![tubes](pics/tubes15ml.png)
+
+## Printing 
+![render](pics/resistor_storage_render.png)
+
 
 With that, print all the parts- you'll need the following for each rack:
 
