@@ -60,3 +60,7 @@ Then, optionally…
 - apply glue to the bottom, back, and sides of drawer_holder.stl and slide it into the top
 - slide in the three drawers to make sure that the side walls of drawer_holder don't move too much to the side
 - move the drawers in and out a few times while the glue is setting to make sure that the drawers don't get stuck
+
+## Modifying
+
+I'm quit happy with the current state, and unlikely to make any changes, but if anyone else wants to use this as a startig point, I've included the FreeCad source file as well, so feel free to dive in if you're so inclined.
