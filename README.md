@@ -5,6 +5,8 @@ This is my system for storing small electronic components. I'm really happy with
 - small wooden display boxes from Daiso (chain of Japanese dollar stores). They're about $6 each
 - a number of 15ml centrifuge tubes. I've had good results buying 100 for about $10 on Aliexpress
 
+![wooden box](pics/start.jpg)
+
 With that, print all the parts- you'll need the following for each rack:
 
 1x back_panel.stl
