@@ -8,6 +8,7 @@ This is my system for storing small electronic components. I'm really happy with
 - a number of 15ml centrifuge tubes. I've had good results buying 100 for about $10 on Aliexpress
 
 ![wooden box](pics/start.jpg)
+![tubes](pics/tubes15ml.png)
 
 With that, print all the parts- you'll need the following for each rack:
 
