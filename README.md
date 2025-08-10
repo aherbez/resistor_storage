@@ -1,5 +1,7 @@
 # Resistor / Small parts storage
 
+![render](pics/resistor_storage_render.jpg)
+
 This is my system for storing small electronic components. I'm really happy with it, so wanted to share in case others might like one. You'll need a couple of non-3d printed parts, namely:
 
 - small wooden display boxes from Daiso (chain of Japanese dollar stores). They're about $6 each
