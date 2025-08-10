@@ -1,5 +1,8 @@
 # Resistor / Small parts storage
 
+
+![render](pics/onerack_1.jpg)
+![render](pics/onerack_2.jpg)
 ![render](pics/resistor_storage_render.png)
 
 This is my system for storing small electronic components. I'm really happy with it, so wanted to share in case others might like one. You'll need a couple of non-3d printed parts, namely:
